@@ -1,0 +1,17 @@
+{ "user": {
+    "id": 1,
+    "id_str": "1",
+    "name": "Bob tester testingting",
+    "screen_name": "regular_guy",
+    "location": "San Francisco, CA, USA",
+    "verified": true,
+    "followers_count": 6129794,
+    "following_count": 356,
+    "statuses_count": 3658,
+    "created_at": "Wed May 23 06:01:13 +0000 2007",
+    "default_profile": false,
+    "default_profile_image": false,
+    "tweets": {"0": "6721384997","1": "8110155739","2": "9014308095"},
+    "total_tweets":"300"
+  }
+}

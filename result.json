@@ -1,0 +1,29 @@
+Trying path to regular....
+
+
+Unable to retrieve json (jsons/regular/4257501295.json)
+[Errno 2] No such file or directory: 'jsons/regular/4257501295.json'
+
+
+
+Trying path to bot....
+Trying path to regular....
+
+
+Unable to retrieve json (jsons/regular/1718517737.json)
+[Errno 2] No such file or directory: 'jsons/regular/1718517737.json'
+
+
+
+Trying path to bot....
+Trying path to regular....
+
+
+Unable to retrieve json (jsons/regular/4385053904.json)
+[Errno 2] No such file or directory: 'jsons/regular/4385053904.json'
+
+
+
+Trying path to bot....
+calllled
+{'is_bot': 'False', 'score': 10, 'score_breakdown': {'Ratio_Tweet': 0, 'location_created': 0, 'd_profile_image': 1, 'Ratio_Follower': 5, 'small_following_base': 0, 'quick_tweet': 0, 'similar_tweet_content': 3, 'location_spoofer': 1}}
